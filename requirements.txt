@@ -1,0 +1,9 @@
+flask
+ml-python
+tensorflow
+matplotlib
+pymongo==3.11.3
+pandas
+scikit-learn
+flask-bcrypt
+
